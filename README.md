@@ -16,9 +16,7 @@ Data Introduction
 
 ## NHTS Publications
 
-[Publication website](https://nhts.ornl.gov/publications)
-
-Filter by Survey and Category using the dropdown menus in the header. Enter a keyword to search.
+[Publication website](https://nhts.ornl.gov/publications)  Filter by Survey and Category using the dropdown menus in the header. Enter a keyword to search.
 
 Reading notes for some of 2001NHTS publications
 
