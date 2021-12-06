@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>rtg</Author>
+  <LastAuthor>rtg</LastAuthor>
+  <LastPrinted>2006-09-06T16:36:37Z</LastPrinted>
+  <Created>1996-10-14T23:33:28Z</Created>
+  <LastSaved>2007-08-13T09:08:48Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9300</WindowHeight>
+  <WindowWidth>15135</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m21146688">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="m21146708">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m21146728">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="m21146748">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="m21146768">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s49">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s50">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s51">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s52">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s53">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s54">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s55">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat ss:Format="Percent"/>
+  </Style>
+  <Style ss:ID="s56">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Information">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="25" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="94.5"/>
+   <Column ss:StyleID="s35" ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:StyleID="s36" ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:StyleID="s35" ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:StyleID="s37" ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:StyleID="s36" ss:AutoFitWidth="0" ss:Width="81.75"/>
+   <Column ss:StyleID="s29" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s30" ss:AutoFitWidth="0" ss:Width="80.25" ss:Span="2"/>
+   <Column ss:Index="11" ss:StyleID="s31" ss:AutoFitWidth="0" ss:Width="82.5"/>
+   <Column ss:StyleID="s38" ss:AutoFitWidth="0" ss:Width="81.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:StyleID="s23">
+    <Cell ss:MergeDown="1" ss:StyleID="m21146708"><Data ss:Type="String">TAZ ID</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m21146728"><Data ss:Type="String">Trip Rates (Number of Trips per Household per Weekday)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m21146748"><Data ss:Type="String">Tavel Rates (Number of miles traveled per Household per Weekday)</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="m21146768"><Data ss:Type="String">Trips Purposes (%)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m21146688"><Data ss:Type="String">Total Number of Households</Data></Cell>
+   </Row>
+   <Row ss:Height="51.75" ss:StyleID="s24">
+    <Cell ss:Index="2" ss:StyleID="s32"><Data ss:Type="String">Vehicle Trip</Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">Personal Trip </Data></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="String">Vehicle-Miles of Travel </Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">Personal-Miles of Travel </Data></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">Personal-Miles of Travel (exclude air travel)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Percent of Work Trips</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Percent of Shopping  Trips</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Percent of Social-Recreational Trips</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Percent of Other Trips</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Percent of non-Home-Based Person Trips</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000805</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1981</Data></Cell>
+    <Cell><Data ss:Type="Number">9.9943</Data></Cell>
+    <Cell><Data ss:Type="Number">75.6961</Data></Cell>
+    <Cell><Data ss:Type="Number">118.3236</Data></Cell>
+    <Cell><Data ss:Type="Number">110.1828</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1155</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3215</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000806</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">261</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000807</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">280</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000808</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000809</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">254</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000810</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">287</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000811</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">284</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000812</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">363</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000813</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">615</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000814</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000815</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2092</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0166</Data></Cell>
+    <Cell><Data ss:Type="Number">75.7701</Data></Cell>
+    <Cell><Data ss:Type="Number">118.5173</Data></Cell>
+    <Cell><Data ss:Type="Number">110.4074</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1404</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1928</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1154</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2298</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3216</Data></Cell>
+    <Cell><Data ss:Type="Number">244</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000816</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">350</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000817</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000818</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0675</Data></Cell>
+    <Cell><Data ss:Type="Number">11.041</Data></Cell>
+    <Cell><Data ss:Type="Number">84.0628</Data></Cell>
+    <Cell><Data ss:Type="Number">128.438</Data></Cell>
+    <Cell><Data ss:Type="Number">118.7496</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1378</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1906</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1149</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2304</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3264</Data></Cell>
+    <Cell><Data ss:Type="Number">376</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000933</Data></Cell>
+    <Cell><Data ss:Type="Number">5.8772</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3479</Data></Cell>
+    <Cell><Data ss:Type="Number">73.5504</Data></Cell>
+    <Cell><Data ss:Type="Number">112.7079</Data></Cell>
+    <Cell><Data ss:Type="Number">103.6714</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1412</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1934</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1156</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2296</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3203</Data></Cell>
+    <Cell><Data ss:Type="Number">934</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000934</Data></Cell>
+    <Cell><Data ss:Type="Number">6.552</Data></Cell>
+    <Cell><Data ss:Type="Number">10.5293</Data></Cell>
+    <Cell><Data ss:Type="Number">80.6829</Data></Cell>
+    <Cell><Data ss:Type="Number">125.5794</Data></Cell>
+    <Cell><Data ss:Type="Number">116.6221</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1386</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1913</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1151</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2302</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3248</Data></Cell>
+    <Cell><Data ss:Type="Number">1839</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000935</Data></Cell>
+    <Cell><Data ss:Type="Number">6.1413</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7409</Data></Cell>
+    <Cell><Data ss:Type="Number">76.6484</Data></Cell>
+    <Cell><Data ss:Type="Number">117.5621</Data></Cell>
+    <Cell><Data ss:Type="Number">109.4932</Data></Cell>
+    <Cell><Data ss:Type="Number">0.141</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1933</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1156</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2296</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3205</Data></Cell>
+    <Cell><Data ss:Type="Number">1822</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000936</Data></Cell>
+    <Cell><Data ss:Type="Number">5.131</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1121</Data></Cell>
+    <Cell><Data ss:Type="Number">40.1768</Data></Cell>
+    <Cell><Data ss:Type="Number">66.5925</Data></Cell>
+    <Cell><Data ss:Type="Number">65.4005</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1507</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2269</Data></Cell>
+    <Cell><Data ss:Type="Number">0.124</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2213</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2771</Data></Cell>
+    <Cell><Data ss:Type="Number">580</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000937</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5938</Data></Cell>
+    <Cell><Data ss:Type="Number">8.8089</Data></Cell>
+    <Cell><Data ss:Type="Number">45.6557</Data></Cell>
+    <Cell><Data ss:Type="Number">78.1237</Data></Cell>
+    <Cell><Data ss:Type="Number">74.4065</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1579</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2332</Data></Cell>
+    <Cell><Data ss:Type="Number">0.125</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2186</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2653</Data></Cell>
+    <Cell><Data ss:Type="Number">1343</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000938</Data></Cell>
+    <Cell><Data ss:Type="Number">5.1666</Data></Cell>
+    <Cell><Data ss:Type="Number">8.3922</Data></Cell>
+    <Cell><Data ss:Type="Number">38.7776</Data></Cell>
+    <Cell><Data ss:Type="Number">62.3492</Data></Cell>
+    <Cell><Data ss:Type="Number">60.9127</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1598</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2345</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1251</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2178</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2628</Data></Cell>
+    <Cell><Data ss:Type="Number">1214</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000939</Data></Cell>
+    <Cell><Data ss:Type="Number">1.7228</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5971</Data></Cell>
+    <Cell><Data ss:Type="Number">12.7049</Data></Cell>
+    <Cell><Data ss:Type="Number">37.2693</Data></Cell>
+    <Cell><Data ss:Type="Number">46.6491</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1283</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2305</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1294</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2972</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2146</Data></Cell>
+    <Cell><Data ss:Type="Number">400</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000940</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5726</Data></Cell>
+    <Cell><Data ss:Type="Number">8.6412</Data></Cell>
+    <Cell><Data ss:Type="Number">47.2023</Data></Cell>
+    <Cell><Data ss:Type="Number">73.4954</Data></Cell>
+    <Cell><Data ss:Type="Number">70.5343</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1545</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2307</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1248</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2201</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2699</Data></Cell>
+    <Cell><Data ss:Type="Number">2593</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">40051000941</Data></Cell>
+    <Cell><Data ss:Type="Number">5.6744</Data></Cell>
+    <Cell><Data ss:Type="Number">9.1465</Data></Cell>
+    <Cell><Data ss:Type="Number">74.6436</Data></Cell>
+    <Cell><Data ss:Type="Number">113.1409</Data></Cell>
+    <Cell><Data ss:Type="Number">107.2284</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1396</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1921</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1153</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.3231</Data></Cell>
+    <Cell><Data ss:Type="Number">2867</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <RangeSelection>R4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
