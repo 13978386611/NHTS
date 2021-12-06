@@ -38,9 +38,14 @@ While the private car dominates travel, there are important variations in auto o
 
 ## Conference - Data for Understanding Our Nation's Travel: National Household Travel Survey Conference: November 1-2, 2004
 
-The effort to bring together a diverse set of data users was intended to develop a community of users who would better understand the utility and analytic capability of the data and subsequently provide feedback to inform the design of future national travel behavior surveys. This conference offered a unique opportunity for transportation professionals at the federal, state, and local levels, as well as for academics and other transportation researchers to 
-• Discuss results of NHTS-based investigations of critical areas for transportation policy, 
-• Learn about innovative applications of the data to understand and estimate travel behavior, 
-• Provide input on the design of future national household travel surveys, 
-• Identify emerging trends and data needs that should be reflected in future survey efforts, and 
+The effort to bring together a diverse set of data users was intended to develop a community of users who would better understand the utility and analytic capability of the data and subsequently provide feedback to inform the design of future national travel behavior surveys. This conference offered a unique opportunity for transportation professionals at the federal, state, and local levels, as well as for academics and other transportation researchers to
+
+• Discuss results of NHTS-based investigations of critical areas for transportation policy,
+
+• Learn about innovative applications of the data to understand and estimate travel behavior,
+
+• Provide input on the design of future national household travel surveys,
+
+• Identify emerging trends and data needs that should be reflected in future survey efforts, and
+
 • Discover data sources that complement the NHTS data in providing a more complete picture of travel behavior in the United States.
