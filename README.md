@@ -22,6 +22,6 @@
 
 ## Reference - Equity
 
-[Reference content]( 
+[Reference content](https://github.com/wenxinL/Data-analysis/tree/main/Equity%20Reference) 
 
 [Reading notes](https://github.com/wenxinL/Data-analysis/blob/main/Equity%20Reference/00EquityNote.md)
