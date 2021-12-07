@@ -2,6 +2,8 @@
 
 [2001 National Household Travel Survey User's Guide](https://github.com/13978386611/NHTS/blob/main/2001NHTS%20UsersGuide.pdf)
 
+[Introduction](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb)
+
 ## NTHS Website
 
 [NHTS Home](https://nhts.ornl.gov/)
@@ -9,10 +11,6 @@
 [NHTS Datasets (from 1983 to 2009)](https://nhts.ornl.gov/download.shtml)
 
 [NHTS Online Analysis Tools](https://nhts.ornl.gov/tools.shtml)
-
-## NHTS Data
-
-[Data Introduction](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb)
 
 ## NHTS Publications
 
