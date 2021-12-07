@@ -18,7 +18,7 @@
 
 [Publication website](https://nhts.ornl.gov/publications)  Filter by Survey and Category using the dropdown menus in the header. Enter a keyword to search.
 
-Reading notes for some of 2001NHTS publications
+[Reading notes](https://github.com/wenxinL/Data-analysis/blob/main/Publication/00Notes.md) for some of 2001NHTS publications
 
 ## Reference - Equity
 
