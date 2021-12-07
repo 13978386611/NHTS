@@ -2,7 +2,7 @@
 
 [2001 National Household Travel Survey User's Guide](https://github.com/13978386611/NHTS/blob/main/2001NHTS%20UsersGuide.pdf)
 
-[Introduction](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb)
+[Introduction](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb) - Jupyter Notebook
 
 ## NTHS Website
 
