@@ -30,7 +30,7 @@ This analysis describes transit travel, users, and markets. Topics analyzed incl
 
 The report concludes by outlining the challenges and opportunities for transit in light of revealed information about by whom and how transit is being used.
 
-## Report - Socioeconomics of Urban Travel: Evidence from the 2001 NHTS 
+## Journal - Socioeconomics of Urban Travel: Evidence from the 2001 NHTS 
 
 The 2001 National Household Travel Survey (NHTS) confirms most of the same travel trends and variations among socioeconomic groups documented by its predecessors, the Nationwide Personal Transportation Surveys (NPTS) of 1969, 1977, 1983, 1990, and 1995. The private car continues to dominate urban travel among every segment of the American population, including the poor, minorities, and the elderly. By comparison, public transport accounts for less than 2% of all urban travel. Even the lowest-income households make only 5% of their trips by transit. The most important difference in the 2001 NHTS is the doubling in modal share of walk trips in cities, due to a much improved survey technique that captured previously unreported walks. 
 
@@ -49,3 +49,41 @@ The effort to bring together a diverse set of data users was intended to develop
 • Identify emerging trends and data needs that should be reflected in future survey efforts, and
 
 • Discover data sources that complement the NHTS data in providing a more complete picture of travel behavior in the United States.
+
+## Brief - Vacation Travel  
+
+## Brief - Congestion: Non-Work Trips in Peak Travel Times and Who is Traveling in the Peak?
+
+## Brief - Commuting for Life	
+
+## Brief	- Long-Distance Travel	
+
+## Brief	- Mobility and the Melting Pot	
+
+## Brief	- The Other Side of Congestion	
+
+## Brief	- Older Drivers: Safety Implications	
+
+## Brief	- Rising Fuel Cost--A Big Impact	
+
+## Brief	Is Congestion Slowing Us Down?	
+
+## Brief	'Carbon Footprint' of Daily Travel	
+
+## Brief	Travel Characteristics of New Immigrants	
+
+## Brief	Travel to School: The Distance Factor
+
+## Brief	Energy Use and Fuel Efficiency	
+
+## Brief	Working At Home--The Quiet Revolution
+
+## Profile	- Travel Analysis Framework: Profile of the United States
+
+## Profile	- Travel Analysis Framework: Profile of Minnesota
+
+## Profile	- Travel Analysis Framework: Profile of Texas
+
+## Presentation - Why Care About Walking?	
+
+## Presentation - The Case For More Moderate Growth in VMT: A Critical Juncture in U.S. Travel Behavior Trends
