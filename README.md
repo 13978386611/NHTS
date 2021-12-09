@@ -2,9 +2,9 @@
 
 [2001 National Household Travel Survey User's Guide](https://github.com/13978386611/NHTS/blob/main/2001NHTS%20UsersGuide.pdf)
 
-[Introduction](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb) - 使用Jupyter Notebook对NHTS的数据进行读取，并进行了简单介绍。
+["intro.ipynb"](https://github.com/wenxinL/Data-analysis/blob/main/intro.ipynb) - 使用Jupyter Notebook对NHTS的数据进行读取，并进行了简单介绍。
 
-The dataset needed to run the above "Introduction" code. [2001NHTS Dataset 百度网盘](https://pan.baidu.com/s/1vR2H2mipc11EbWSRXzQ2pA) 提取码：2407
+The dataset needed to run the above "intro.ipynb" code.  ---> [2001NHTS Dataset 百度网盘](https://pan.baidu.com/s/1vR2H2mipc11EbWSRXzQ2pA) 提取码：2407
 
 ## NTHS Website
 
